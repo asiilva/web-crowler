@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A3352B66-F04D-474D-9288-B05AF5F7DA48}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebCrawlerNetImoveis</RootNamespace>
+    <AssemblyName>WebCrawlerNetImoveis</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsoleCrawler\SpiderNetImoveis.cs" />
+    <Compile Include="ConsoleCrawler\SpiderNetImoveisV2.cs" />
+    <Compile Include="ConsoleCrawler\SpiderRedeImvista.cs" />
+    <Compile Include="ConsoleCrawler\ManageCrawler.cs" />
+    <Compile Include="ConsoleCrawler\CrawlerSerialize.cs" />
+    <Compile Include="Crawler.BO\ImovelBO.cs" />
+    <Compile Include="Crawler.DAO\ImovelDAO.cs" />
+    <Compile Include="Crawler.VO\CidadesVO.cs" />
+    <Compile Include="Crawler.VO\ImoveisVO.cs" />
+    <Compile Include="Crawler.VO\ImovelVO.cs" />
+    <Compile Include="Crawler.VO\RedeImvistaVO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UtilsBD\ADONetmoveis.cs" />
+    <Compile Include="UtilsBD\Cidades.cs" />
+    <Compile Include="UtilsBD\ConfigureLayout.cs" />
+    <Compile Include="UtilsBD\Messages.cs" />
+    <Compile Include="UtilsBD\Origem.cs" />
+    <Compile Include="UtilsBD\RequestResponse.cs" />
+    <Compile Include="UtilsBD\Urls.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Crawler.VO\cidades.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

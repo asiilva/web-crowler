@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Estados>
+  <Estado id="1" name="Minas Gerais">
+    <Cidades>
+      <parameters>
+        <add value="1" key="Belo-Horizonte"/>
+        <add value="2" key="Contagem"/>
+        <add value="3" key="Betim"/>
+        <add value="4" key="Nova-lima"/>
+        <add value="5" key="Lagoa-Santa"/>
+        <add value="6" key="Esmeraldas"/>
+        <add value="7" key="Ribeirao-das-neves"/>
+        <add value="8" key="Ibirite"/>
+        <add value="9" key="Formiga"/>
+        <add value="10" key="Igarape"/>
+      </parameters>
+    </Cidades>
+  </Estado>
+</Estados>
+
+

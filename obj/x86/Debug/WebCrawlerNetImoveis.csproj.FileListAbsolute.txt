@@ -1,0 +1,21 @@
+C:\Users\Alan\Desktop\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\bin\Debug\WebCrawlerNetImoveis.exe
+C:\Users\Alan\Desktop\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\bin\Debug\WebCrawlerNetImoveis.pdb
+C:\Users\Alan\Desktop\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.exe
+C:\Users\Alan\Desktop\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.pdb
+C:\Users\Alan\Dropbox\Weeb\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.exe
+C:\Users\Alan\Dropbox\Weeb\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.pdb
+C:\Users\Alan\Dropbox\Weeb\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\bin\Debug\WebCrawlerNetImoveis.exe
+C:\Users\Alan\Dropbox\Weeb\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\bin\Debug\WebCrawlerNetImoveis.pdb
+C:\Users\Alan\Dropbox\Weeb\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Dropbox\Weeb Crawler NetMoveis Development\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Dropbox\Weeb Crawler NetMoveis Development\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\bin\Debug\WebCrawlerNetImoveis.exe
+C:\Users\Alan\Dropbox\Weeb Crawler NetMoveis Development\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\bin\Debug\WebCrawlerNetImoveis.pdb
+C:\Users\Alan\Dropbox\Weeb Crawler NetMoveis Development\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.exe
+C:\Users\Alan\Dropbox\Weeb Crawler NetMoveis Development\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.pdb
+C:\Users\alan.silva\Dropbox\Weeb Crawler NetMoveis Development\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.exe
+C:\Users\alan.silva\Dropbox\Weeb Crawler NetMoveis Development\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.pdb
+C:\Users\alan.silva\Desktop\GITHUB\Weeb Crawler NetMoveis Development\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.exe
+C:\Users\alan.silva\Desktop\GITHUB\Weeb Crawler NetMoveis Development\SubversionDropBoxNetmoveis\Trunk\WebCrawler TIG\Net Imoveis\WebCrawlerNetImoveis\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.pdb
+C:\git-repo\web-crawler-solution\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.exe
+C:\git-repo\web-crawler-solution\WebCrawlerNetImoveis\obj\x86\Debug\WebCrawlerNetImoveis.pdb
